@@ -1,0 +1,10 @@
+﻿Create an end point for getting and creating cars.
+
+End points are as follows:
+
+List of all cars
+Car having a specified ID
+Create a car
+All yellow cars
+
+Cars will have wheels, ids, and colors.

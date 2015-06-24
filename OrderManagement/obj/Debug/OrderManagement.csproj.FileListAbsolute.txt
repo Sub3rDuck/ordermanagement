@@ -1,0 +1,14 @@
+C:\Users\M\Desktop\OrderManagement\OrderManagement\bin\OrderManagement.dll.config
+C:\Users\M\Desktop\OrderManagement\OrderManagement\bin\OrderManagement.dll
+C:\Users\M\Desktop\OrderManagement\OrderManagement\bin\OrderManagement.pdb
+C:\Users\M\Desktop\OrderManagement\OrderManagement\bin\Newtonsoft.Json.dll
+C:\Users\M\Desktop\OrderManagement\OrderManagement\bin\System.Net.Http.Formatting.dll
+C:\Users\M\Desktop\OrderManagement\OrderManagement\bin\System.Web.Http.dll
+C:\Users\M\Desktop\OrderManagement\OrderManagement\bin\System.Web.Http.WebHost.dll
+C:\Users\M\Desktop\OrderManagement\OrderManagement\bin\Newtonsoft.Json.xml
+C:\Users\M\Desktop\OrderManagement\OrderManagement\bin\System.Net.Http.Formatting.xml
+C:\Users\M\Desktop\OrderManagement\OrderManagement\bin\System.Web.Http.xml
+C:\Users\M\Desktop\OrderManagement\OrderManagement\bin\System.Web.Http.WebHost.xml
+C:\Users\M\Desktop\OrderManagement\OrderManagement\obj\Debug\OrderManagement.dll
+C:\Users\M\Desktop\OrderManagement\OrderManagement\obj\Debug\OrderManagement.pdb
+C:\Users\M\Desktop\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csprojResolveAssemblyReference.cache
